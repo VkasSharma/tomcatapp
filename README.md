@@ -1,5 +1,5 @@
 # CloudenabledWebApp
-CloudenabledWebApp for maven web app
+CloudenabledWebApp for maven web app.
 
 ## By: Cloudenabled
 Avantus trainign demo
